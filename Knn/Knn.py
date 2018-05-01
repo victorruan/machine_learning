@@ -1,6 +1,10 @@
 # Knn基础
 import numpy as np
 import matplotlib.pyplot as plt
+
+
+
+
 raw_data_X = [
         [3.4,2.3],
         [3.1,1.8],
